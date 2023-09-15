@@ -11,4 +11,6 @@ p{
 }
 ol{
     margin: 12px;
+    border: solid #333333;
+    color: red;
 }
